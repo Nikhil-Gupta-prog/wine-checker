@@ -1,0 +1,50 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	opacity: 0.5;
+	background-image: url("red.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+label{
+	display: block;
+	line-height: 3px;
+	font-size: 20px;
+
+}
+.main{
+	width: 30vw;
+	color: #fff;
+	padding: 1%;
+	margin: 2% 60%;
+	text-align: center;
+	
+}
+
+.a1{
+    padding: 2%;
+    margin:2% 0;
+    width: 360px;
+    border: 1px solid #999;
+    line-height: 3px;
+    text-align: right;
+    position: relative;
+}
+
+legend{
+	font-weight: bold;
+	color: white;
+	font-size: 30px;
+}
+
+
+.btn{
+      background-color: #c00d46;
+      border-color: transparent;
+      color: #ffffff;
+      font-size: 20px;
+      font-weight: bold;
+
+}
